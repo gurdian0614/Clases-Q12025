@@ -9,4 +9,7 @@ ave.Especie = "Amazona aestiva";
 ave.Color = "Verde";
 ave.Tamano = 30.5;
 ave.Habitat = "Bosques Tropicales";
+ave.Familia.Nombre = "Psittacidae";
+ave.Familia.NumeroEspecie = 393;
+ave.Familia.Caracteristicas = "Aves coloridas, a menudo inteligentes";
 ave.Imprimir();
